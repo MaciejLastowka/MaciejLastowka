@@ -13,21 +13,13 @@ I am a beginner Java developer programmer. I work on backend projects using Java
 <br>Java 11<br>
 
 <br>Frameworks and tools for backend development:
-<br>Spring Boot
-<br>REST
-<br>Mockito
-<br>JUnit
-<br>Maven<br>
+<br>Spring Boot, REST, Mockito, JUnit, Maven<br>
 
 <br>Methodologies and tools for project management:
-<br>Scrum
-<br>Slack
-<br>Jira<br>
+<br>Scrum, Slack, Jira<br>
 
 <br>Databases
-<br>Postgres
-<br>Liquibase
-<br>Hibernate
-<br>SQL<br>
+<br>Postgres, Liquibase, Hibernate, SQL<br>
 <br>
-<br>
+<br>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MaciejLastowka)  
+![Profile views](https://gpvc.arturio.dev/MaciejLastowka)  
