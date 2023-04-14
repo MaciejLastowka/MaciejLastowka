@@ -11,6 +11,25 @@ I am a beginner Java developer programmer. I work on backend projects using Java
 <img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 
+Języki programowania:
+Java 11
+Frameworki i narzędzia do backendu:
+Spring Boot
+REST
+Mockito
+JUnit
+Maven
+Liquibase
+Hibernate
+SQL
+Metodologie i narzędzia do zarządzania projektem:
+Scrum
+Slack
+Jira
+Bazy danych:
+Postgres
+Inne technologie:
+JSON
 
 <br>
 <br>
